@@ -1,0 +1,92 @@
+{
+  "id": "e93f49a4-02ad-48bc-81e4-3eb3079324c4",
+  "name": "Kryfs Development",
+  "publisher": "Leaping Frog Solutions Pvt Ltd",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [ {
+    "name": "India GST",
+    "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+    "publisher": "Microsoft",
+    "version": "21.3.51409.52692"
+  },
+  {
+    "name": "India Tax Base",
+    "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+    "publisher": "Microsoft",
+    "version": "21.3.51409.52692"
+  },
+  {
+    "name": "QR Generator",
+    "id": "7106d701-c601-4a5f-97c2-b8b323ae2c18",
+    "publisher": "Microsoft",
+    "version": "21.3.51409.52692"
+  },
+  {
+    "name": "India TCS",
+    "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+    "publisher": "Microsoft",
+    "version": "21.3.51409.52692"
+  },
+  {
+    "name": "Tax Engine",
+    "version": "21.3.51409.52692",
+    "publisher": "Microsoft",
+    "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00"
+  },
+{
+  "name": "Fixed Asset Depreciation for India",
+  "id": "1150dd8d-51da-485a-bd4a-1ee98d78c21a",
+  "publisher": "Microsoft",
+  "version": "22.4.59114.59531"
+},
+{
+  "name": "India Charge Group",
+  "id": "07729019-da51-4639-a987-3db38ccc62c7",
+  "publisher": "Microsoft",
+  "version": "22.4.59114.59531"
+},
+{
+  "name": "India Gate Entry",
+  "id": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+  "publisher": "Microsoft",
+  "version": "22.4.59114.59531"
+},
+{
+  "name": "India Reports",
+  "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+  "publisher": "Microsoft",
+  "version": "22.4.59114.5953"
+},
+{
+  "name": "India Voucher Interface",
+  "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+  "publisher": "Microsoft",
+  "version": "22.4.59114.59792"
+}
+],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50150
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
